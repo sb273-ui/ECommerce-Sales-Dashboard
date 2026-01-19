@@ -1,82 +1,38 @@
-E-Commerce Sales Performance Dashboard (Power BI)
-📊 Project Overview
+E-Commerce Sales Performance Dashboard
+Overview
 
-This project focuses on analyzing and visualizing e-commerce sales data using Microsoft Power BI. The dashboard is built using the Superstore Sales Dataset and provides insights into sales performance across regions, product categories, customer segments, and time periods. The goal is to transform raw sales data into meaningful visual insights to support data-driven decision-making.
+This project presents an interactive E-Commerce Sales Performance Dashboard developed using Microsoft Power BI. The dashboard analyzes the Superstore Sales Dataset to provide insights into sales trends, regional performance, and category-wise contributions.
 
-🎯 Objectives
-
-Analyze overall sales performance
-
-Identify top-performing regions, states, and categories
-
-Track sales trends over time
-
-Provide an interactive and user-friendly dashboard
-
-📁 Dataset
+Dataset
 
 Source: Kaggle
 
 Name: Superstore Sales Dataset
 
-Format: CSV
+Tools Used
 
-Contents: Order details including sales, category, segment, region, state, and order date
+Microsoft Power BI
 
-🛠 Tools & Technologies
+Power Query
 
-Microsoft Power BI Desktop
+DAX
 
-Power Query (Data Cleaning & Transformation)
+Dashboard Highlights
 
-DAX (Data Analysis Expressions)
+Total sales and order KPIs
 
-📈 Dashboard Features
-
-KPI cards showing total sales and total orders
-
-Category-wise and region-wise sales analysis
+Category and region-wise sales analysis
 
 State-level sales distribution
 
-Quarterly and yearly sales trends
+Interactive filters and slicers
 
-Interactive slicers for dynamic filtering
+Internship
 
-📌 Project Files
+AICTE MS Elevate – Power BI Internship
 
-ECommerce_Sales_dashboard.pbix – Power BI dashboard file
-
-Dashboard screenshot (for result visualization)
-
-🚀 How to Use
-
-Download the .pbix file
-
-Open it using Microsoft Power BI Desktop
-
-Interact with slicers and visuals to explore insights
-
-🧾 Internship Details
-
-Program: AICTE MS Elevate – Power BI Internship
-
-Project Type: Data Visualization / Business Intelligence
-
-📚 References
+References
 
 Kaggle – Superstore Sales Dataset
 
-Microsoft Power BI Official Documentation
-
-AICTE MS Elevate Internship Guidelines
-
-If you want, I can also:
-
-Shorten this README
-
-Make it more academic or more GitHub-style
-
-Add badges or screenshots section
-
-Just tell me 👍
+Microsoft Power BI Documentation
